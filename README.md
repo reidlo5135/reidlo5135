@@ -5,10 +5,8 @@
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=reidlo5135&layout=compact&theme=tokyonight)
 ![Github stats](https://github-readme-stats.vercel.app/api?username=reidlo5135&show_icons=true&theme=tokyonight)
 
-<a href=#><img src="contributions.svg"></a>
-
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/insolitum/count.svg" />
+  <img src="https://profile-counter.glitch.me/reidlo5135/count.svg" />
 </p>
 
