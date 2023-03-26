@@ -12,7 +12,6 @@
   </a>
 </p>
 
-<h3 align="center">Contract : naru7922@gmail.com</h3>
 <h3 align="center">Languages and Tools</h3>
 <p align="center">
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
