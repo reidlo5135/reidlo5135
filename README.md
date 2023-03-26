@@ -55,7 +55,7 @@
 <br>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=reidlo5135&show_icons=true&hide=Python,CSS,SCSS,Kotlin&theme=nord&locale=en&layout=compact" alt="reidlo5135" />
-  &nbsp;&nbsp;
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=reidlo5135&show_icons=true&locale=en&theme=nord" alt="reidlo5135" />
+  &nbsp;&nbsp;
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=reidlo5135&show_icons=true&hide=Python,CSS,SCSS,Kotlin&theme=nord&locale=en&layout=compact" alt="reidlo5135" />
 </p>
