@@ -30,7 +30,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
   </a>
   <a href="https://nestjs.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nest/nest-original-wordmark.svg" alt="express" width="40" height="40"/>
+    <img src="./nestjs.svg" alt="ros2" width="40" heigh="30" style="background-color: #E0234E;" />
   </a>
   <a href="https://expressjs.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
@@ -39,7 +39,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="express" width="40" height="40"/>
   </a>
   <a href="https://docs.ros.org/en/foxy/Installation.html" target="_blank" rel="noreferrer">
-    <img src="./Ccqz_qpZ.svg" alt="ros2" width="40" heigh="30" />
+    <img src="./ROS2.svg" alt="ros2" width="40" heigh="30" />
   </a>
   <a href="https://mariadb.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/>  
