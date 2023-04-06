@@ -65,5 +65,5 @@
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=reidlo5135&show_icons=true&locale=en&theme=nord&count_private=true&include_all_commits=true&line_height=33" alt="reidlo5135" />
   &nbsp;&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=reidlo5135&show_icons=true&hide=Python,CSS,SCSS,Kotlin,PowerShell,BatchFile,Shell,ProcFile&theme=nord&locale=en&langs_count=10" alt="reidlo5135" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=reidlo5135&show_icons=true&hide=Python,CSS,SCSS,Kotlin,PowerShell,BatchFile,Shell,ProcFile&theme=nord&locale=en&langs_count=10&exclude_repo=FX_IDE,fo4.gg,ros2_server,ros2_mqtt_client_test,ros2_java_client,ros2_boot_server,ros2_boot_client,demo,LibraryManagement,Java-Online-Compiler,kartrider.gg,FX_Compiler,MusicTree-React-Boot,Java-Coding-Test" alt="reidlo5135" />
 </p>
