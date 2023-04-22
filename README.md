@@ -26,16 +26,16 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
   </a>
   <a href="https://devdocs.io/c/" target="_blank" rel="noreferrer">
-    <img src="./c.svg" alt="typescript" width="40" height="40" style="background-color: #A8B9CC"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
   </a>
-  <a href="https://learn.microsoft.com/ko-kr/cpp/cpp/?view=msvc-170" target="_blank" rel="noreferrer">
-    <img src="./cplusplus.svg" alt="typescript" width="40" height="40" style="background-color: #00599C"/>
+  <a href="https://isocpp.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cpp" width="40" height="40"/>
   </a>
   <a href="https://cmake.org/" target="_blank" rel="noreferrer">
-    <img src="./cmake.svg" alt="typescript" width="40" height="40" style="background-color: #064F8C"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cmake/cmake-original.svg" alt="cmake" width="40" height="40"/>
   </a>
-  <a href="https://learn.microsoft.com/ko-kr/cpp/cpp/?view=msvc-170" target="_blank" rel="noreferrer">
-    <img src="./python.svg" alt="typescript" width="40" height="40" style="background-color: #3776AB"/>
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a>
   <a href="https://spring.io/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
