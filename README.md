@@ -28,6 +28,15 @@
   <a href="https://devdocs.io/c/" target="_blank" rel="noreferrer">
     <img src="./c.svg" alt="typescript" width="40" height="40" style="background-color: #A8B9CC"/>
   </a>
+  <a href="https://learn.microsoft.com/ko-kr/cpp/cpp/?view=msvc-170" target="_blank" rel="noreferrer">
+    <img src="./cplusplus.svg" alt="typescript" width="40" height="40" style="background-color: #00599C"/>
+  </a>
+  <a href="https://cmake.org/" target="_blank" rel="noreferrer">
+    <img src="./cmake.svg" alt="typescript" width="40" height="40" style="background-color: #064F8C"/>
+  </a>
+  <a href="https://learn.microsoft.com/ko-kr/cpp/cpp/?view=msvc-170" target="_blank" rel="noreferrer">
+    <img src="./python.svg" alt="typescript" width="40" height="40" style="background-color: #3776AB"/>
+  </a>
   <a href="https://spring.io/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
   </a>
@@ -71,5 +80,5 @@
   <img align="center" src="https://streak-stats.demolab.com/?user=reidlo5135&theme=nord" /> <br><br>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=reidlo5135&show_icons=true&locale=en&theme=nord&count_private=true&include_all_commits=true&line_height=33" alt="reidlo5135" />
   &nbsp;&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=reidlo5135&show_icons=true&hide=CSS,SCSS,Kotlin,PowerShell,BatchFile,Shell,ProcFile&theme=nord&locale=en&langs_count=10&exclude_repo=FX_IDE,fo4.gg,ros2_server,ros2_mqtt_client_test,ros2_java_client,ros2_boot_server,ros2_boot_client,demo,LibraryManagement,Java-Online-Compiler,kartrider.gg,FX_Compiler,MusicTree-React-Boot,Java-Coding-Test,Rphago,Java-nba-app,nba_app,Build-Craft,HACKATHON2022-DLSIGNAL-BE,HACKATHON2022-TopOfTraining-BE,android_study,MusicTree-JSP-Legacy,jpa-study,spring-study" alt="reidlo5135" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=reidlo5135&show_icons=true&hide=CSS,SCSS,Kotlin,PowerShell,BatchFile,Shell,ProcFile&theme=nord&locale=en&langs_count=20&exclude_repo=FX_IDE,fo4.gg,ros2_server,ros2_mqtt_client_test,ros2_java_client,ros2_boot_server,ros2_boot_client,demo,LibraryManagement,Java-Online-Compiler,kartrider.gg,FX_Compiler,MusicTree-React-Boot,Java-Coding-Test,Rphago,Java-nba-app,nba_app,Build-Craft,HACKATHON2022-DLSIGNAL-BE,HACKATHON2022-TopOfTraining-BE,android_study,MusicTree-JSP-Legacy,jpa-study,spring-study" alt="reidlo5135" />
 </p>
