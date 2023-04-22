@@ -44,13 +44,13 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
   </a>
   <a href="https://nestjs.com" target="_blank" rel="noreferrer">
-    <img src="./nestjs.svg" alt="ros2" width="40" heigh="30" style="background-color: #E0234E;" />
+    <img src="./nestjs.svg" alt="nestjs" width="40" heigh="30" style="background-color: #E0234E;" />
   </a>
   <a href="https://expressjs.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
   </a>
   <a href="https://reactjs.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="express" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
   </a>
   <a href="https://docs.ros.org/en/foxy/Installation.html" target="_blank" rel="noreferrer">
     <img src="./ROS2.svg" alt="ros2" width="40" heigh="30" />
