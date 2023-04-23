@@ -12,7 +12,7 @@
   </a>
 </p>
 <br>
-<h2 align="center"><strong>Technology used</strong></h2><br>
+<h3 align="center"><strong>Technology used</strong></h3><br>
 <h3 align="center">Languages</h3><br>
 <p align="center">
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
