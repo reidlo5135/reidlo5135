@@ -12,8 +12,6 @@
   </a>
 </p>
 <hr/>
-<br>
-
 <h3 align="center">Languages</h3><br>
 <p align="center">
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
