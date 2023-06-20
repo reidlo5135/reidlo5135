@@ -11,7 +11,7 @@
     <img src="https://github-profile-trophy.vercel.app/?username=reidlo5135&theme=nord&title=Stars,Followers,Commits,PullRequest,MultiLanguage,Repositories" alt="reidlo5135" />
   </a>
 </p>
-<hr/>
+<!-- <hr/>
 <h3 align="center">Languages</h3><br>
 <p align="center">
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
@@ -82,7 +82,7 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
   </a>
-</p>
+</p> -->
 <hr/>
 <br>
 <p align="center">
