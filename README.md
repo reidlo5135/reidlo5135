@@ -6,10 +6,13 @@
   </a>
 </h3>
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=reidlo5135&theme=nord&title=Stars,Followers,Commits,PullRequest,MultiLanguage,Repositories" alt="reidlo5135" />
   </a>
+</p> -->
+<p align="center">
+<img src="./nba.gif">
 </p>
 <!-- <hr/>
 <h3 align="center">Languages</h3><br>
