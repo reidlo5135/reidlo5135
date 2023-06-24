@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=neuropol&color=%black&size=30&lines=reidlo&center=true)](https://git.io/typing-svg)
 
-<img align="right" src="./nba.gif" width="390" height="300" />
+<img align="center" src="./nba.gif" width="390" height="300" />
 
 <br>
 <br>
