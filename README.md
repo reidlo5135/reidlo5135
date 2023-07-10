@@ -73,10 +73,10 @@
 <br>
 
 <h2 align="left">⚡Activity Graph:</h2>
-  <a>
+<a>
     <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=reidlo5135&theme=react-dark&hide_border=true" />
     <img alt="Activity Graph" src="./profile-3d-contrib/profile-night-rainbow.svg" />
-  </a>
+</a>
 
 <br>
 <br>
