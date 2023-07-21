@@ -89,6 +89,6 @@
   <img width="625em" src="https://metrics.lecoq.io/reidlo5135" />
 </p>
 <div align="center">
-<br><p><b>Visitors Count</b></p>  
+<br><p align="cemter"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{reidlo5135}/count.svg" /></p> 
 </div>
