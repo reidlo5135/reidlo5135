@@ -64,7 +64,6 @@
 <a>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=reidlo5135&show_icons=true&locale=en&theme=react&count_private=true&include_all_commits=true" alt="reidlo5135" style="width: 95%" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=reidlo5135&show_icons=true&hide=JavaScript,CSS,SCSS,Kotlin,PowerShell,BatchFile,Shell,ProcFile&theme=react&layout=compact&locale=en&langs_count=20&exclude_repo=FX_IDE,fo4.gg,ros2_server,ros2_mqtt_client_test,ros2_java_client,ros2_boot_server,ros2_boot_client,demo,FX_IDE,LibraryManagement,Java-Online-Compiler,kartrider.gg,FX_Compiler,MusicTree-React-Boot,Java-Coding-Test,Rphago,Java-nba-app,nba_app,Build-Craft,HACKATHON2022-DLSIGNAL-BE,HACKATHON2022-TopOfTraining-BE,android_study,MusicTree-JSP-Legacy,jpa-study,spring-study,ICT2022_picTOMaker-v1.0.0,ICT2022_picTOMaker,HACKATHON2022-HandShake-v1.0.0,ELECTRON_picTOMaker,smart2022,CAPSTONE2022-HanShake-v2.0.0&count_private=true" alt="reidlo5135" />
-<img src="https://streak-stats.demolab.com/?user=reidlo5135&theme=react" style="width: 95%" />
 </a>
 </p>
 </div>
