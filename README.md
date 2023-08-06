@@ -5,8 +5,6 @@
 <br>
 <br>
 
-<!-- ds -->
-
 ## <img src="https://img.icons8.com/nolan/25/computer.png"/> Technologies
 
 <kbd>
