@@ -10,7 +10,6 @@
 <kbd>
   <kbd>
     <kbd>Languages</kbd>
-    
     <br>
     <br>
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
