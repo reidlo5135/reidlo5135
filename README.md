@@ -1,4 +1,3 @@
-// <h1 align="center">reidlo</h1>
 <img align="center" src="./nba.gif" width="390" height="300" />
 
 <br>
