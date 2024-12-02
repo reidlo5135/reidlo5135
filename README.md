@@ -1,4 +1,4 @@
-<h1 align="center">reidlo</h1>
+// <h1 align="center">reidlo</h1>
 <img align="center" src="./nba.gif" width="390" height="300" />
 
 <br>
@@ -25,7 +25,7 @@
     <br>
     <br>
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mac/mac-original.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" />
   </kbd>
   <kbd>
     <kbd>Library / FrameWorks</kbd>
