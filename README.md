@@ -5,7 +5,7 @@
 [블로그](https://reidlo-sw-develop.tistory.com)
 
 ## Tech Skills
-[![My Skills](https://skillicons.dev/icons?i=java,spring,js,ts,nodejs,nestjs,react,postgres,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,js,ts,nodejs,react,postgres,mysql)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=nginx,redis,jenkins,aws,ubuntu,docker,kubernetes,git,notion)](https://skillicons.dev)
 
