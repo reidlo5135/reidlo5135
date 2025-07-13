@@ -5,11 +5,11 @@
 [블로그](https://reidlo-sw-develop.tistory.com)
 
 ## Tech Skills
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,js,ts,nodejs,react,postgres,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,js,ts,nodejs,react,ros)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=nginx,redis,jenkins,aws,ubuntu,docker,kubernetes,git,notion)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=postgres,mysql,jenkins,aws,ubuntu,docker,git,notion)](https://skillicons.dev)
 
-<!--[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jindaram)](https://solved.ac/jindaram/)-->
+<!--[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=reidlo5135)](https://solved.ac/reidlo5135/)-->
 </div>
 <!--
 **reidlo5135/reidlo5135** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
