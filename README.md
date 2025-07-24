@@ -7,7 +7,7 @@
 ## Tech Skills
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,python,js,ts,nodejs,react,ros)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=aws,windows,apple,linux,ubuntu,docker,git,notion,jira,confluence)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,windows,apple,linux,ubuntu,docker,git,notion)](https://skillicons.dev)
 
 <!--[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=reidlo5135)](https://solved.ac/reidlo5135/)-->
 </div>
