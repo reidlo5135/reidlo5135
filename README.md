@@ -1,13 +1,13 @@
 <div align="center">
 
- 🌳 3년차 S/W 엔지니어 **강준모**입니다. 🌳
+S/W Engineer
 <br>
 [블로그](https://reidlo-sw-develop.tistory.com)
 
 ## Tech Skills
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,cmake,python,js,ts,nodejs,react,qt)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,cmake,python,java,kotlin,js,ts,nodejs,react)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=opencv,ros,aws,windows,linux,apple,docker,git,notion)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=qt,opencv,ros,aws,windows,linux,apple,docker,git,notion)](https://skillicons.dev)
 
 <!--[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=reidlo5135)](https://solved.ac/reidlo5135/)-->
 </div>
