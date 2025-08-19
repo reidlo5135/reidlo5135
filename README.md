@@ -5,9 +5,9 @@
 [블로그](https://reidlo-sw-develop.tistory.com)
 
 ## Tech Skills
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,cmake,python,js,ts,nodejs,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,cmake,python,js,ts,nodejs,react,qt)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=ros,aws,windows,apple,linux,docker,git,notion)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=opencv,ros,aws,windows,linux,apple,docker,git,notion)](https://skillicons.dev)
 
 <!--[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=reidlo5135)](https://solved.ac/reidlo5135/)-->
 </div>
