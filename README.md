@@ -1,10 +1,4 @@
 <div align="center">
-
-S/W Engineer
-<br>
-[블로그](https://reidlo-sw-develop.tistory.com)
-
-## Tech Skills
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,cmake,python,java,kotlin,js,ts,nodejs,react)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=qt,opencv,ros,aws,windows,linux,apple,docker,git,notion)](https://skillicons.dev)
