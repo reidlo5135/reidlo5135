@@ -1,8 +1,8 @@
 <div align="center">
   
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,cmake,python,java,kotlin,js,ts,nodejs,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,cmake,python,java,kotlin,js,ts,nodejs,react,nestjs)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=qt,opencv,ros,aws,windows,linux,apple,docker,git,notion)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ros,aws,linux,apple,docker,git,notion,jira,confluence)](https://skillicons.dev)
 
 <!--[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=reidlo5135)](https://solved.ac/reidlo5135/)-->
 </div>
