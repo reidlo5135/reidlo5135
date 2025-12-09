@@ -2,7 +2,7 @@
   
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,cmake,python,java,kotlin,js,ts)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=springboot,ktor,nodejs,react,nestjs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=spring,ktor,nodejs,react,nestjs)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=ros,aws,linux,apple,docker,git,notion)](https://skillicons.dev)
 
