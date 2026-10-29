@@ -7,16 +7,18 @@
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c.png" alt="C" title="C"/></code>
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c++.png" alt="C++" title="C++"/></code>
 	<code><img width="50" src="https://skillicons.dev/icons?i=cmake" alt="C++" title="C++"/></code>
-  <code><img width="50" src="https://skillicons.dev/icons?i=python" alt="C++" title="C++"/></code>
+	<code><img width="50" src="https://skillicons.dev/icons?i=python" alt="C++" title="C++"/></code>
 	<code><img width="50" src="https://skillicons.dev/icons?i=ros" alt="C++" title="C++"/></code>
-  
   <br/>
-  <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/linux.png" alt="C++" title="C++"/></code>
-  <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mqtt.png" alt="C++" title="C++"/></code>
-  <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/raspberri_pi.png" alt="C++" title="C++"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/qt.png" alt="C++" title="C++"/></code>
-  <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/godot.png" alt="C++" title="C++"/></code>
-	
+	<code><img width="50" src="https://skillicons.dev/icons?i=nodejs" alt="C++" title="C++"/></code>
+	<code><img width="50" src="https://skillicons.dev/icons?i=typescript" alt="C++" title="C++"/></code>
+	<code><img width="50" src="https://skillicons.dev/icons?i=react" alt="C++" title="C++"/></code>
+	<code><img width="50" src="https://skillicons.dev/icons?i=nest" alt="C++" title="C++"/></code>
+  <br/>
+	  <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/linux.png" alt="C++" title="C++"/></code>
+	  <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mqtt.png" alt="C++" title="C++"/></code>
+	  <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/raspberri_pi.png" alt="C++" title="C++"/></code>
+	  <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/qt.png" alt="C++" title="C++"/></code>	
 	
 </div>
 
