@@ -7,7 +7,6 @@
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c.png" alt="C" title="C"/></code>
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c++.png" alt="C++" title="C++"/></code>
 	<code><img width="50" src="https://skillicons.dev/icons?i=cmake" alt="C++" title="C++"/></code>
-	<code><img width="50" src="https://skillicons.dev/icons?i=python" alt="C++" title="C++"/></code>
 	<code><img width="50" src="https://skillicons.dev/icons?i=ros" alt="C++" title="C++"/></code>
   <br/>
 	<code><img width="50" src="https://skillicons.dev/icons?i=nodejs" alt="C++" title="C++"/></code>
